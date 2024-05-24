@@ -5,10 +5,10 @@ files:
     learner_created: false
   - name: src/css/style.css
     visible: true
-    learner_created: false
+    learner_created: true
   - name: test/test.js
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/183/stages/930/implement#comment
+feedback_link: https://hyperskill.org/learn/step/13197#comment
 status: Solved
 record: 3

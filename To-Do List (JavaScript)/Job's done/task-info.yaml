@@ -6,12 +6,15 @@ files:
   - name: src/css/style.css
     visible: true
     learner_created: false
-  - name: src/js/script.js
-    visible: true
-    learner_created: false
   - name: test/test.js
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/183/stages/929/implement#comment
+feedback_link: https://hyperskill.org/learn/step/13196#comment
 status: Failed
+feedback:
+  message: |-
+    Error: Wrong answer in test #4
+
+    After adding a new task to the To-Do list, there should be 4 <li> tags inside the <ul> list
+  time: "Mon, 20 May 2024 12:54:01 UTC"
 record: 2
